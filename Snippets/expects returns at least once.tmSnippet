@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.expects(:$1).returns($2).at_least_once$0</string>
+	<key>name</key>
+	<string>expects returns at least once</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>.ex</string>
+	<key>uuid</key>
+	<string>90216E8B-0B47-41D9-82AF-1471325E6762</string>
+</dict>
+</plist>
